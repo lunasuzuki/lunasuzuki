@@ -1,16 +1,33 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://github.com/lunasuzuki/lunasuzuki/assets/113134707/25fcfa14-b255-41e8-b2a3-295d07aace0d" width="400"/> <a href="https://www.linkedin.com/in/lunasuzuki/"></a>
+</div>
 
-<!--
-**lunasuzuki/lunasuzuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<h3>about me</h3>
+I'm a third year student at New York University studying computer science and game design
 
-Here are some ideas to get you started:
+- I currently work as a Web Development Intern, utilizing HTML and CSS to create, update, and maintain websites for companies.
+- During my free time, I usually like to game, bake, or unnecessarily rewatch shows or movies too many times.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="socials" align="center">
+  <img src="https://github.com/lunasuzuki/lunasuzuki/assets/113134707/995f77c2-2139-4214-95b2-089f8a018773" width="40"/>
+</div>
+
+---
+<h3>languages and tools</h3>
+<div>
+  <img src="https://github.com/lunasuzuki/lunasuzuki/assets/113134707/367771ff-f51c-4d96-bfb4-c11973185451" width="40">
+  <img src="https://github.com/lunasuzuki/lunasuzuki/assets/113134707/178ba70c-5386-4a17-8b61-0ca7c06d1b7d" width="40">
+  <img src="https://github.com/lunasuzuki/lunasuzuki/assets/113134707/4909c929-3712-4a93-912c-f10d92ee4b98" width="40">
+  <img src="https://github.com/lunasuzuki/lunasuzuki/assets/113134707/536aac17-1df6-4b08-8483-fc447ca3840c" width="40">
+  <img src="https://github.com/lunasuzuki/lunasuzuki/assets/113134707/28eedbe1-87f5-44fb-8df4-4ac3430bba69" width="40">
+  <img src="https://github.com/lunasuzuki/lunasuzuki/assets/113134707/573089e7-1ada-4bf9-b0a5-63305f479000" width="40">
+  <img src="https://github.com/lunasuzuki/lunasuzuki/assets/113134707/bf2f7e6e-3c1f-4f5d-8adb-f4ce3acd3123" width="40">
+</div>
+
+
+
+
+
+
+
