@@ -7,7 +7,7 @@
 I'm a third year student at New York University studying computer science and game design
 
 - I currently work as a Web Development Intern, utilizing HTML and CSS to create, update, and maintain websites for companies.
-- During my free time, I usually like to game, bake, or unnecessarily rewatch shows or movies too many times.
+- During my free time, I usually like to game, bake, or work my hands in customizing my mechanical keyboards.
 
 <div id="socials" align="center">
   <a href="https://www.linkedin.com/in/lunasuzuki/">
