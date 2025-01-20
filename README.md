@@ -3,7 +3,6 @@
 </div>
 
 ---
-<h3>about me</h3>
 
 <div id="socials" align="center">
   <a href="https://www.linkedin.com/in/lunasuzuki/">
